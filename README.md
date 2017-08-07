@@ -11,7 +11,7 @@ During training, the car can be drived using the keyboard or the mouse, as in a 
 
 Here is a video demo showing how the trained AI agent drives the simulated car in a fully autonomous mode:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Dhr72ryP0Co" target="_blank">
- <img src="http://img.youtube.com/vi/Dhr72ryP0Co/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+ <img src="http://img.youtube.com/vi/Dhr72ryP0Co/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" />
 </a>
 
 
