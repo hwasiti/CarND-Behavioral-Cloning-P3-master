@@ -9,7 +9,11 @@ During training, the car can be drived using the keyboard or the mouse, as in a 
 
 ![1](https://github.com/hwasiti/CarND-Behavioral-Cloning-P3-master/blob/master/ReadmePictures/1.png)
 
-Here is a [video demo](https://www.youtube.com/watch?v=Dhr72ryP0Co) showing how the trained AI agent drives the simulated car in a fully autonomous mode.
+Here is a video demo showing how the trained AI agent drives the simulated car in a fully autonomous mode:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Dhr72ryP0Co" target="_blank">
+ <img src="http://img.youtube.com/vi/Dhr72ryP0Co/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+</a>
+
 
 ### How to Run
 First, record your driving in the simulator for few laps. The simulator will save the image snapshots and the csv data that will be used to train the neural network. Edit the ‘model-AWS.ipynb’ file to include the local path of the saved images and csv file path. 
